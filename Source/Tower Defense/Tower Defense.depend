@@ -1,0 +1,415 @@
+# depslib dependency file v1.0
+1371674774 source:i:\projetos\allegro 4\td\animation.c
+	"Animation.h"
+
+1371674438 i:\projetos\allegro 4\td\animation.h
+	"init.h"
+
+1373124380 i:\projetos\allegro 4\td\init.h
+	<allegro.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Content.h"
+	"Keyboard.h"
+
+1373126292 i:\projetos\allegro 4\td\content.h
+	<allegro.h>
+
+1372976328 i:\projetos\allegro 4\td\keyboard.h
+	<allegro.h>
+
+1372983218 source:i:\projetos\allegro 4\td\gamescreen.c
+	"Gamescreen.h"
+
+1371774566 i:\projetos\allegro 4\td\gamescreen.h
+	"init.h"
+	"Stage.h"
+	"Enemy.h"
+	"Enemy_List.h"
+	"TowerButton.h"
+	"Torre.h"
+	"Vender.h"
+	"Upgrade.h"
+
+1371761438 i:\projetos\allegro 4\td\stage.h
+	"init.h"
+	"Tilemap.h"
+
+1371233518 i:\projetos\allegro 4\td\tilemap.h
+	"init.h"
+
+1372869864 i:\projetos\allegro 4\td\enemy.h
+	"init.h"
+	"Animation.h"
+	"Stage.h"
+
+1371907980 i:\projetos\allegro 4\td\enemy_list.h
+	"Enemy.h"
+
+1372983188 source:i:\projetos\allegro 4\td\init.c
+	"init.h"
+
+1372976462 source:i:\projetos\allegro 4\td\keyboard.c
+	"Keyboard.h"
+
+1372967292 source:i:\projetos\allegro 4\td\main.c
+	"init.h"
+	"Mainmenu.h"
+	"Gamescreen.h"
+	"Gameover.h"
+	"Vitoria.h"
+
+1370785242 source:i:\projetos\allegro 4\td\stage.c
+	"Stage.h"
+
+1373126260 source:i:\projetos\allegro 4\td\tilemap.c
+	"Tilemap.h"
+
+1373126292 source:i:\projetos\allegro 4\td\content.c
+	"Content.h"
+
+1371908030 source:i:\projetos\allegro 4\td\enemy_list.c
+	"Enemy_List.h"
+
+1372870048 source:i:\projetos\allegro 4\td\enemy.c
+	"Enemy.h"
+
+1373020052 source:i:\projetos\allegro 4\td\gameover.c
+	"Gameover.h"
+
+1370801444 i:\projetos\allegro 4\td\gameover.h
+	"init.h"
+
+1371253986 i:\projetos\allegro 4\td\towerbutton.h
+	"init.h"
+	"Torre.h"
+	"Stage.h"
+
+1371753904 source:i:\projetos\allegro 4\td\towerbutton.c
+	"TowerButton.h"
+
+1370815510 i:\projetos\allegro 4\td\torre_normal.h
+	"Enemy_List.h"
+
+1370816258 source:i:\projetos\allegro 4\td\torre_normal.c
+	"Torre_Normal.h"
+
+1372278872 i:\projetos\allegro 4\td\torre.h
+	"Enemy_List.h"
+	"Tiro.h"
+
+1373124146 source:i:\projetos\allegro 4\td\torre.c
+	"Torre.h"
+
+1371255726 i:\projetos\allegro 4\td\vitoria.h
+	"init.h"
+
+1372983236 source:i:\projetos\allegro 4\td\vitoria.c
+	"Vitoria.h"
+
+1371750264 i:\projetos\allegro 4\td\vender.h
+	"Torre.h"
+
+1371907026 source:i:\projetos\allegro 4\td\vender.c
+	"Vender.h"
+
+1373124428 source:i:\projetos\allegro 4\td\upgrade.c
+	"Upgrade.h"
+
+1371861058 i:\projetos\allegro 4\td\upgrade.h
+	"Torre.h"
+
+1372977620 source:i:\projetos\allegro 4\td\tiro.c
+	"Tiro.h"
+
+1372381984 i:\projetos\allegro 4\td\tiro.h
+	"init.h"
+	"Enemy.h"
+
+1372951798 i:\projetos\allegro 4\td\mainmenu.h
+	"init.h"
+	"Button.h"
+
+1373020082 source:i:\projetos\allegro 4\td\mainmenu.c
+	"Mainmenu.h"
+
+1372952250 i:\projetos\allegro 4\td\button.h
+	"init.h"
+
+1372951876 source:i:\projetos\allegro 4\td\button.c
+	"Button.h"
+
+1371674774 source:i:\projetos\allegro 4\tower defense\animation.c
+	"Animation.h"
+
+1371674438 i:\projetos\allegro 4\tower defense\animation.h
+	"init.h"
+
+1373124380 i:\projetos\allegro 4\tower defense\init.h
+	<allegro.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Content.h"
+	"Keyboard.h"
+
+1373126292 i:\projetos\allegro 4\tower defense\content.h
+	<allegro.h>
+
+1372976328 i:\projetos\allegro 4\tower defense\keyboard.h
+	<allegro.h>
+
+1372951876 source:i:\projetos\allegro 4\tower defense\button.c
+	"Button.h"
+
+1372952250 i:\projetos\allegro 4\tower defense\button.h
+	"init.h"
+
+1373126292 source:i:\projetos\allegro 4\tower defense\content.c
+	"Content.h"
+
+1371908030 source:i:\projetos\allegro 4\tower defense\enemy_list.c
+	"Enemy_List.h"
+
+1371907980 i:\projetos\allegro 4\tower defense\enemy_list.h
+	"Enemy.h"
+
+1372869864 i:\projetos\allegro 4\tower defense\enemy.h
+	"init.h"
+	"Animation.h"
+	"Stage.h"
+
+1371761438 i:\projetos\allegro 4\tower defense\stage.h
+	"init.h"
+	"Tilemap.h"
+
+1374103992 i:\projetos\allegro 4\tower defense\tilemap.h
+	"init.h"
+
+1373020052 source:i:\projetos\allegro 4\tower defense\gameover.c
+	"Gameover.h"
+
+1370801444 i:\projetos\allegro 4\tower defense\gameover.h
+	"init.h"
+
+1374103326 source:i:\projetos\allegro 4\tower defense\gamescreen.c
+	"Gamescreen.h"
+
+1371774566 i:\projetos\allegro 4\tower defense\gamescreen.h
+	"init.h"
+	"Stage.h"
+	"Enemy.h"
+	"Enemy_List.h"
+	"TowerButton.h"
+	"Torre.h"
+	"Vender.h"
+	"Upgrade.h"
+
+1371253986 i:\projetos\allegro 4\tower defense\towerbutton.h
+	"init.h"
+	"Torre.h"
+	"Stage.h"
+
+1374097368 i:\projetos\allegro 4\tower defense\torre.h
+	"Enemy_List.h"
+	"Tiro.h"
+
+1372381984 i:\projetos\allegro 4\tower defense\tiro.h
+	"init.h"
+	"Enemy.h"
+
+1371750264 i:\projetos\allegro 4\tower defense\vender.h
+	"Torre.h"
+
+1371861058 i:\projetos\allegro 4\tower defense\upgrade.h
+	"Torre.h"
+
+1372976462 source:i:\projetos\allegro 4\tower defense\keyboard.c
+	"Keyboard.h"
+
+1373020082 source:i:\projetos\allegro 4\tower defense\mainmenu.c
+	"Mainmenu.h"
+
+1372951798 i:\projetos\allegro 4\tower defense\mainmenu.h
+	"init.h"
+	"Button.h"
+
+1370785242 source:i:\projetos\allegro 4\tower defense\stage.c
+	"Stage.h"
+
+1373126260 source:i:\projetos\allegro 4\tower defense\tilemap.c
+	"Tilemap.h"
+
+1372977620 source:i:\projetos\allegro 4\tower defense\tiro.c
+	"Tiro.h"
+
+1374097428 source:i:\projetos\allegro 4\tower defense\torre.c
+	"Torre.h"
+
+1371753904 source:i:\projetos\allegro 4\tower defense\towerbutton.c
+	"TowerButton.h"
+
+1373124428 source:i:\projetos\allegro 4\tower defense\upgrade.c
+	"Upgrade.h"
+
+1371907026 source:i:\projetos\allegro 4\tower defense\vender.c
+	"Vender.h"
+
+1372983236 source:i:\projetos\allegro 4\tower defense\vitoria.c
+	"Vitoria.h"
+
+1371255726 i:\projetos\allegro 4\tower defense\vitoria.h
+	"init.h"
+
+1372983188 source:i:\projetos\allegro 4\tower defense\init.c
+	"init.h"
+
+1372967292 source:i:\projetos\allegro 4\tower defense\main.c
+	"init.h"
+	"Mainmenu.h"
+	"Gamescreen.h"
+	"Gameover.h"
+	"Vitoria.h"
+
+1374097196 source:i:\projetos\allegro 4\tower defense\enemy.c
+	"Enemy.h"
+
+1371674774 source:f:\projetos\allegro 4\tower defense\animation.c
+	"Animation.h"
+
+1371674438 f:\projetos\allegro 4\tower defense\animation.h
+	"init.h"
+
+1373124380 f:\projetos\allegro 4\tower defense\init.h
+	<allegro.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Content.h"
+	"Keyboard.h"
+
+1373126292 f:\projetos\allegro 4\tower defense\content.h
+	<allegro.h>
+
+1372976328 f:\projetos\allegro 4\tower defense\keyboard.h
+	<allegro.h>
+
+1372951876 source:f:\projetos\allegro 4\tower defense\button.c
+	"Button.h"
+
+1372952250 f:\projetos\allegro 4\tower defense\button.h
+	"init.h"
+
+1373126292 source:f:\projetos\allegro 4\tower defense\content.c
+	"Content.h"
+
+1374097196 source:f:\projetos\allegro 4\tower defense\enemy.c
+	"Enemy.h"
+
+1372869864 f:\projetos\allegro 4\tower defense\enemy.h
+	"init.h"
+	"Animation.h"
+	"Stage.h"
+
+1371761438 f:\projetos\allegro 4\tower defense\stage.h
+	"init.h"
+	"Tilemap.h"
+
+1374103992 f:\projetos\allegro 4\tower defense\tilemap.h
+	"init.h"
+
+1371908030 source:f:\projetos\allegro 4\tower defense\enemy_list.c
+	"Enemy_List.h"
+
+1371907980 f:\projetos\allegro 4\tower defense\enemy_list.h
+	"Enemy.h"
+
+1373020052 source:f:\projetos\allegro 4\tower defense\gameover.c
+	"Gameover.h"
+
+1370801444 f:\projetos\allegro 4\tower defense\gameover.h
+	"init.h"
+
+1374103326 source:f:\projetos\allegro 4\tower defense\gamescreen.c
+	"Gamescreen.h"
+
+1371774566 f:\projetos\allegro 4\tower defense\gamescreen.h
+	"init.h"
+	"Stage.h"
+	"Enemy.h"
+	"Enemy_List.h"
+	"TowerButton.h"
+	"Torre.h"
+	"Vender.h"
+	"Upgrade.h"
+
+1371253986 f:\projetos\allegro 4\tower defense\towerbutton.h
+	"init.h"
+	"Torre.h"
+	"Stage.h"
+
+1374097368 f:\projetos\allegro 4\tower defense\torre.h
+	"Enemy_List.h"
+	"Tiro.h"
+
+1372381984 f:\projetos\allegro 4\tower defense\tiro.h
+	"init.h"
+	"Enemy.h"
+
+1371750264 f:\projetos\allegro 4\tower defense\vender.h
+	"Torre.h"
+
+1371861058 f:\projetos\allegro 4\tower defense\upgrade.h
+	"Torre.h"
+
+1372983188 source:f:\projetos\allegro 4\tower defense\init.c
+	"init.h"
+
+1372976462 source:f:\projetos\allegro 4\tower defense\keyboard.c
+	"Keyboard.h"
+
+1372967292 source:f:\projetos\allegro 4\tower defense\main.c
+	"init.h"
+	"Mainmenu.h"
+	"Gamescreen.h"
+	"Gameover.h"
+	"Vitoria.h"
+
+1372951798 f:\projetos\allegro 4\tower defense\mainmenu.h
+	"init.h"
+	"Button.h"
+
+1371255726 f:\projetos\allegro 4\tower defense\vitoria.h
+	"init.h"
+
+1373020082 source:f:\projetos\allegro 4\tower defense\mainmenu.c
+	"Mainmenu.h"
+
+1370785242 source:f:\projetos\allegro 4\tower defense\stage.c
+	"Stage.h"
+
+1374104142 source:f:\projetos\allegro 4\tower defense\tilemap.c
+	"Tilemap.h"
+
+1372977620 source:f:\projetos\allegro 4\tower defense\tiro.c
+	"Tiro.h"
+
+1374097428 source:f:\projetos\allegro 4\tower defense\torre.c
+	"Torre.h"
+
+1371753904 source:f:\projetos\allegro 4\tower defense\towerbutton.c
+	"TowerButton.h"
+
+1373124428 source:f:\projetos\allegro 4\tower defense\upgrade.c
+	"Upgrade.h"
+
+1371907026 source:f:\projetos\allegro 4\tower defense\vender.c
+	"Vender.h"
+
+1372983236 source:f:\projetos\allegro 4\tower defense\vitoria.c
+	"Vitoria.h"
+

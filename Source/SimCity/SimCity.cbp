@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="SimCity" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="SimCity" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/SimCity" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="button.cpp" />
+		<Unit filename="button.h" />
+		<Unit filename="cidade.cpp" />
+		<Unit filename="cidade.h" />
+		<Unit filename="content.cpp" />
+		<Unit filename="content.h" />
+		<Unit filename="desastres.cpp" />
+		<Unit filename="desastres.h" />
+		<Unit filename="func_allegro.cpp" />
+		<Unit filename="func_allegro.h" />
+		<Unit filename="gamescreen.cpp" />
+		<Unit filename="gamescreen.h" />
+		<Unit filename="init.cpp" />
+		<Unit filename="init.h" />
+		<Unit filename="keyboard.cpp" />
+		<Unit filename="keyboard.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="mainmenu.cpp" />
+		<Unit filename="mainmenu.h" />
+		<Unit filename="optionscreen.cpp" />
+		<Unit filename="optionscreen.h" />
+		<Unit filename="playmenu.cpp" />
+		<Unit filename="playmenu.h" />
+		<Unit filename="textbutton.cpp" />
+		<Unit filename="textbutton.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+			<DoxyBlocks>
+				<comment_style block="0" line="0" />
+				<doxyfile_project />
+				<doxyfile_build />
+				<doxyfile_warnings />
+				<doxyfile_output />
+				<doxyfile_dot />
+				<general />
+			</DoxyBlocks>
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

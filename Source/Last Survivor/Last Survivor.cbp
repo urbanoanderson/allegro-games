@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Last Survivor" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Last Survivor" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Last Survivor" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="animation.cpp" />
+		<Unit filename="animation.hpp" />
+		<Unit filename="background.cpp" />
+		<Unit filename="background.hpp" />
+		<Unit filename="bomba.cpp" />
+		<Unit filename="bomba.hpp" />
+		<Unit filename="challenge.cpp" />
+		<Unit filename="challenge.hpp" />
+		<Unit filename="content.cpp" />
+		<Unit filename="content.hpp" />
+		<Unit filename="datafile_fonts.h" />
+		<Unit filename="datafile_graphics.h" />
+		<Unit filename="datafile_menu.h" />
+		<Unit filename="datafile_music.h" />
+		<Unit filename="datafile_sfx.h" />
+		<Unit filename="enemy.cpp" />
+		<Unit filename="enemy.hpp" />
+		<Unit filename="enemy_A.cpp" />
+		<Unit filename="enemy_A.hpp" />
+		<Unit filename="enemy_B.cpp" />
+		<Unit filename="enemy_B.hpp" />
+		<Unit filename="enemy_C.cpp" />
+		<Unit filename="enemy_C.hpp" />
+		<Unit filename="enemy_D.cpp" />
+		<Unit filename="enemy_D.hpp" />
+		<Unit filename="enemy_E.cpp" />
+		<Unit filename="enemy_E.hpp" />
+		<Unit filename="enemy_F.cpp" />
+		<Unit filename="enemy_F.hpp" />
+		<Unit filename="explosion.cpp" />
+		<Unit filename="explosion.hpp" />
+		<Unit filename="gameobject.cpp" />
+		<Unit filename="gameobject.hpp" />
+		<Unit filename="gameover.cpp" />
+		<Unit filename="gameover.hpp" />
+		<Unit filename="gamescreen.cpp" />
+		<Unit filename="gamescreen.hpp" />
+		<Unit filename="help.cpp" />
+		<Unit filename="help.hpp" />
+		<Unit filename="highscore_screen.cpp" />
+		<Unit filename="highscore_screen.hpp" />
+		<Unit filename="highscores.cpp" />
+		<Unit filename="highscores.hpp" />
+		<Unit filename="homing_shot.cpp" />
+		<Unit filename="homing_shot.hpp" />
+		<Unit filename="init.cpp" />
+		<Unit filename="init.hpp" />
+		<Unit filename="keyboard.cpp" />
+		<Unit filename="keyboard.hpp" />
+		<Unit filename="main.cpp" />
+		<Unit filename="mediaplayer.cpp" />
+		<Unit filename="mediaplayer.hpp" />
+		<Unit filename="optionscreen.cpp" />
+		<Unit filename="optionscreen.hpp" />
+		<Unit filename="pause.cpp" />
+		<Unit filename="pause.hpp" />
+		<Unit filename="physics.cpp" />
+		<Unit filename="physics.hpp" />
+		<Unit filename="powerup.cpp" />
+		<Unit filename="powerup.hpp" />
+		<Unit filename="screeneffects.cpp" />
+		<Unit filename="screeneffects.hpp" />
+		<Unit filename="shield.cpp" />
+		<Unit filename="shield.hpp" />
+		<Unit filename="shot.cpp" />
+		<Unit filename="shot.hpp" />
+		<Unit filename="spaceship.cpp" />
+		<Unit filename="spaceship.hpp" />
+		<Unit filename="xbox.cpp" />
+		<Unit filename="xbox.hpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

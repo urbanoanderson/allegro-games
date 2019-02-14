@@ -1,0 +1,392 @@
+# depslib dependency file v1.0
+1376870920 source:f:\projetos\allegro 4\simcity\main.cpp
+	"init.h"
+	"mainmenu.h"
+	"playmenu.h"
+	"optionscreen.h"
+	"gamescreen.h"
+
+1376479592 f:\projetos\allegro 4\simcity\structs.h
+
+1379710552 f:\projetos\allegro 4\simcity\init.h
+	<allegro.h>
+	<ctime>
+	<cstring>
+	<cstdio>
+	<string>
+	"content.h"
+	"keyboard.h"
+
+1379765534 f:\projetos\allegro 4\simcity\content.h
+	<allegro.h>
+
+1376479432 f:\projetos\allegro 4\simcity\arquivos.h
+	"structs.h"
+	"func_allegro.h"
+	"game_functions.h"
+
+1376874956 f:\projetos\allegro 4\simcity\func_allegro.h
+	"init.h"
+
+1357923304 f:\projetos\allegro 4\simcity\game_functions.h
+
+1376822452 f:\projetos\allegro 4\simcity\mainmenu.h
+	"init.h"
+	"button.h"
+
+1379701952 f:\projetos\allegro 4\simcity\button.h
+	"init.h"
+
+1376875136 f:\projetos\allegro 4\simcity\playmenu.h
+	"init.h"
+	"func_allegro.h"
+	"cidade.h"
+	"button.h"
+	"textbutton.h"
+
+1376830074 f:\projetos\allegro 4\simcity\optionscreen.h
+	"init.h"
+	"button.h"
+	"func_allegro.h"
+
+1379710438 f:\projetos\allegro 4\simcity\gamescreen.h
+	"init.h"
+	"button.h"
+	"cidade.h"
+	"func_allegro.h"
+
+1376514868 f:\projetos\allegro 4\simcity\extrascreens.h
+
+1348107332 f:\projetos\allegro 4\simcity\random.h
+	"structs.h"
+	"desastres.h"
+
+1342973550 f:\projetos\allegro 4\simcity\desastres.h
+	"structs.h"
+	"random.h"
+
+1379701962 source:f:\projetos\allegro 4\simcity\button.cpp
+	"button.h"
+
+1377464850 source:f:\projetos\allegro 4\simcity\cidade.cpp
+	"cidade.h"
+
+1380501686 f:\projetos\allegro 4\simcity\cidade.h
+	"init.h"
+
+1379765534 source:f:\projetos\allegro 4\simcity\content.cpp
+	"content.h"
+
+1376874956 source:f:\projetos\allegro 4\simcity\func_allegro.cpp
+	"func_allegro.h"
+
+1376871242 source:f:\projetos\allegro 4\simcity\init.cpp
+	"init.h"
+
+1376871298 source:f:\projetos\allegro 4\simcity\gamescreen.cpp
+	"gamescreen.h"
+
+1379765534 source:f:\projetos\allegro 4\simcity\mainmenu.cpp
+	"mainmenu.h"
+
+1376871298 source:f:\projetos\allegro 4\simcity\optionscreen.cpp
+	"optionscreen.h"
+
+1376913034 source:f:\projetos\allegro 4\simcity\playmenu.cpp
+	"playmenu.h"
+
+1376868088 f:\projetos\allegro 4\simcity\keyboard.h
+	<allegro.h>
+
+1376868088 source:f:\projetos\allegro 4\simcity\keyboard.cpp
+	"keyboard.h"
+
+1376910998 f:\projetos\allegro 4\simcity\textbutton.h
+	"init.h"
+
+1376912008 source:f:\projetos\allegro 4\simcity\textbutton.cpp
+	"textbutton.h"
+
+1379701962 source:i:\projetos\allegro 4\simcity\button.cpp
+	"button.h"
+
+1379701952 i:\projetos\allegro 4\simcity\button.h
+	"init.h"
+
+1377464850 source:i:\projetos\allegro 4\simcity\cidade.cpp
+	"cidade.h"
+
+1377464456 i:\projetos\allegro 4\simcity\cidade.h
+	"init.h"
+
+1379710552 i:\projetos\allegro 4\simcity\init.h
+	<allegro.h>
+	<ctime>
+	<cstring>
+	<cstdio>
+	<string>
+	"content.h"
+	"keyboard.h"
+
+1379765534 i:\projetos\allegro 4\simcity\content.h
+	<allegro.h>
+
+1376868088 i:\projetos\allegro 4\simcity\keyboard.h
+	<allegro.h>
+
+1379765534 source:i:\projetos\allegro 4\simcity\content.cpp
+	"content.h"
+
+1376874956 source:i:\projetos\allegro 4\simcity\func_allegro.cpp
+	"func_allegro.h"
+
+1376874956 i:\projetos\allegro 4\simcity\func_allegro.h
+	"init.h"
+
+1379710718 source:i:\projetos\allegro 4\simcity\gamescreen.cpp
+	"gamescreen.h"
+
+1379710438 i:\projetos\allegro 4\simcity\gamescreen.h
+	"init.h"
+	"button.h"
+	"cidade.h"
+	"func_allegro.h"
+
+1376871242 source:i:\projetos\allegro 4\simcity\init.cpp
+	"init.h"
+
+1376868088 source:i:\projetos\allegro 4\simcity\keyboard.cpp
+	"keyboard.h"
+
+1376870920 source:i:\projetos\allegro 4\simcity\main.cpp
+	"init.h"
+	"mainmenu.h"
+	"playmenu.h"
+	"optionscreen.h"
+	"gamescreen.h"
+
+1376822452 i:\projetos\allegro 4\simcity\mainmenu.h
+	"init.h"
+	"button.h"
+
+1376875136 i:\projetos\allegro 4\simcity\playmenu.h
+	"init.h"
+	"func_allegro.h"
+	"cidade.h"
+	"button.h"
+	"textbutton.h"
+
+1376910998 i:\projetos\allegro 4\simcity\textbutton.h
+	"init.h"
+
+1376830074 i:\projetos\allegro 4\simcity\optionscreen.h
+	"init.h"
+	"button.h"
+	"func_allegro.h"
+
+1379765534 source:i:\projetos\allegro 4\simcity\mainmenu.cpp
+	"mainmenu.h"
+
+1376871298 source:i:\projetos\allegro 4\simcity\optionscreen.cpp
+	"optionscreen.h"
+
+1376913034 source:i:\projetos\allegro 4\simcity\playmenu.cpp
+	"playmenu.h"
+
+1376912008 source:i:\projetos\allegro 4\simcity\textbutton.cpp
+	"textbutton.h"
+
+1394733496 source:d:\dropbox\projetos\allegro 4\simcity\novo\simcity\button.cpp
+	"button.h"
+
+1379701952 d:\dropbox\projetos\allegro 4\simcity\novo\simcity\button.h
+	"init.h"
+
+1394740487 d:\dropbox\projetos\allegro 4\simcity\novo\simcity\init.h
+	<allegro.h>
+	<ctime>
+	<cstring>
+	<cstdio>
+	<string>
+	<iostream>
+	"content.h"
+	"keyboard.h"
+
+1379765534 d:\dropbox\projetos\allegro 4\simcity\novo\simcity\content.h
+	<allegro.h>
+
+1376868088 d:\dropbox\projetos\allegro 4\simcity\novo\simcity\keyboard.h
+	<allegro.h>
+
+1394742354 source:d:\dropbox\projetos\allegro 4\simcity\novo\simcity\cidade.cpp
+	"cidade.h"
+
+1394742658 d:\dropbox\projetos\allegro 4\simcity\novo\simcity\cidade.h
+	"init.h"
+
+1379765534 source:d:\dropbox\projetos\allegro 4\simcity\novo\simcity\content.cpp
+	"content.h"
+
+1376874956 source:d:\dropbox\projetos\allegro 4\simcity\novo\simcity\func_allegro.cpp
+	"func_allegro.h"
+
+1376874956 d:\dropbox\projetos\allegro 4\simcity\novo\simcity\func_allegro.h
+	"init.h"
+
+1394740542 source:d:\dropbox\projetos\allegro 4\simcity\novo\simcity\gamescreen.cpp
+	"gamescreen.h"
+
+1394742675 d:\dropbox\projetos\allegro 4\simcity\novo\simcity\gamescreen.h
+	"init.h"
+	"button.h"
+	"cidade.h"
+	"func_allegro.h"
+	"desastres.h"
+
+1394733717 source:d:\dropbox\projetos\allegro 4\simcity\novo\simcity\init.cpp
+	"init.h"
+
+1376868088 source:d:\dropbox\projetos\allegro 4\simcity\novo\simcity\keyboard.cpp
+	"keyboard.h"
+
+1376870920 source:d:\dropbox\projetos\allegro 4\simcity\novo\simcity\main.cpp
+	"init.h"
+	"mainmenu.h"
+	"playmenu.h"
+	"optionscreen.h"
+	"gamescreen.h"
+
+1376822452 d:\dropbox\projetos\allegro 4\simcity\novo\simcity\mainmenu.h
+	"init.h"
+	"button.h"
+
+1376875136 d:\dropbox\projetos\allegro 4\simcity\novo\simcity\playmenu.h
+	"init.h"
+	"func_allegro.h"
+	"cidade.h"
+	"button.h"
+	"textbutton.h"
+
+1376910998 d:\dropbox\projetos\allegro 4\simcity\novo\simcity\textbutton.h
+	"init.h"
+
+1376830074 d:\dropbox\projetos\allegro 4\simcity\novo\simcity\optionscreen.h
+	"init.h"
+	"button.h"
+	"func_allegro.h"
+
+1394733732 source:d:\dropbox\projetos\allegro 4\simcity\novo\simcity\mainmenu.cpp
+	"mainmenu.h"
+
+1394733786 source:d:\dropbox\projetos\allegro 4\simcity\novo\simcity\optionscreen.cpp
+	"optionscreen.h"
+
+1394734327 source:d:\dropbox\projetos\allegro 4\simcity\novo\simcity\playmenu.cpp
+	"playmenu.h"
+
+1376912008 source:d:\dropbox\projetos\allegro 4\simcity\novo\simcity\textbutton.cpp
+	"textbutton.h"
+
+1394743313 d:\dropbox\projetos\allegro 4\simcity\novo\simcity\desastres.h
+	"cidade.h"
+
+1394743313 source:d:\dropbox\projetos\allegro 4\simcity\novo\simcity\desastres.cpp
+	"desastres.h"
+
+1394797184 source:d:\dropbox\projetos\allegro 4\simcity\simcity\button.cpp
+	"button.h"
+
+1394796953 d:\dropbox\projetos\allegro 4\simcity\simcity\button.h
+	"init.h"
+
+1394740487 d:\dropbox\projetos\allegro 4\simcity\simcity\init.h
+	<allegro.h>
+	<ctime>
+	<cstring>
+	<cstdio>
+	<string>
+	<iostream>
+	"content.h"
+	"keyboard.h"
+
+1379765534 d:\dropbox\projetos\allegro 4\simcity\simcity\content.h
+	<allegro.h>
+
+1376868088 d:\dropbox\projetos\allegro 4\simcity\simcity\keyboard.h
+	<allegro.h>
+
+1394742354 source:d:\dropbox\projetos\allegro 4\simcity\simcity\cidade.cpp
+	"cidade.h"
+
+1394742658 d:\dropbox\projetos\allegro 4\simcity\simcity\cidade.h
+	"init.h"
+
+1379765534 source:d:\dropbox\projetos\allegro 4\simcity\simcity\content.cpp
+	"content.h"
+
+1376874956 source:d:\dropbox\projetos\allegro 4\simcity\simcity\func_allegro.cpp
+	"func_allegro.h"
+
+1376874956 d:\dropbox\projetos\allegro 4\simcity\simcity\func_allegro.h
+	"init.h"
+
+1394733717 source:d:\dropbox\projetos\allegro 4\simcity\simcity\init.cpp
+	"init.h"
+
+1376868088 source:d:\dropbox\projetos\allegro 4\simcity\simcity\keyboard.cpp
+	"keyboard.h"
+
+1376870920 source:d:\dropbox\projetos\allegro 4\simcity\simcity\main.cpp
+	"init.h"
+	"mainmenu.h"
+	"playmenu.h"
+	"optionscreen.h"
+	"gamescreen.h"
+
+1376822452 d:\dropbox\projetos\allegro 4\simcity\simcity\mainmenu.h
+	"init.h"
+	"button.h"
+
+1376875136 d:\dropbox\projetos\allegro 4\simcity\simcity\playmenu.h
+	"init.h"
+	"func_allegro.h"
+	"cidade.h"
+	"button.h"
+	"textbutton.h"
+
+1376910998 d:\dropbox\projetos\allegro 4\simcity\simcity\textbutton.h
+	"init.h"
+
+1376830074 d:\dropbox\projetos\allegro 4\simcity\simcity\optionscreen.h
+	"init.h"
+	"button.h"
+	"func_allegro.h"
+
+1394797324 d:\dropbox\projetos\allegro 4\simcity\simcity\gamescreen.h
+	"init.h"
+	"button.h"
+	"cidade.h"
+	"func_allegro.h"
+	"desastres.h"
+
+1394744445 d:\dropbox\projetos\allegro 4\simcity\simcity\desastres.h
+	"cidade.h"
+
+1394733732 source:d:\dropbox\projetos\allegro 4\simcity\simcity\mainmenu.cpp
+	"mainmenu.h"
+
+1394733786 source:d:\dropbox\projetos\allegro 4\simcity\simcity\optionscreen.cpp
+	"optionscreen.h"
+
+1394734327 source:d:\dropbox\projetos\allegro 4\simcity\simcity\playmenu.cpp
+	"playmenu.h"
+
+1376912008 source:d:\dropbox\projetos\allegro 4\simcity\simcity\textbutton.cpp
+	"textbutton.h"
+
+1394761131 source:d:\dropbox\projetos\allegro 4\simcity\simcity\desastres.cpp
+	"desastres.h"
+
+1394797324 source:d:\dropbox\projetos\allegro 4\simcity\simcity\gamescreen.cpp
+	"gamescreen.h"
+

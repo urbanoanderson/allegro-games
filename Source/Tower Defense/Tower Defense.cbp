@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Tower Defense" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="Tower Defense" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Animation" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Animation.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Animation.h" />
+		<Unit filename="Button.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Button.h" />
+		<Unit filename="Content.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Content.h" />
+		<Unit filename="Enemy.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Enemy.h" />
+		<Unit filename="Enemy_List.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Enemy_List.h" />
+		<Unit filename="Gameover.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Gameover.h" />
+		<Unit filename="Gamescreen.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Gamescreen.h" />
+		<Unit filename="Keyboard.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Keyboard.h" />
+		<Unit filename="Mainmenu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Mainmenu.h" />
+		<Unit filename="Stage.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Stage.h" />
+		<Unit filename="Tilemap.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Tilemap.h" />
+		<Unit filename="Tiro.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Tiro.h" />
+		<Unit filename="Torre.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Torre.h" />
+		<Unit filename="TowerButton.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TowerButton.h" />
+		<Unit filename="Upgrade.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Upgrade.h" />
+		<Unit filename="Vender.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Vender.h" />
+		<Unit filename="Vitoria.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Vitoria.h" />
+		<Unit filename="init.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="init.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+			<DoxyBlocks>
+				<comment_style block="0" line="0" />
+				<doxyfile_project />
+				<doxyfile_build />
+				<doxyfile_warnings />
+				<doxyfile_output />
+				<doxyfile_dot />
+				<general />
+			</DoxyBlocks>
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

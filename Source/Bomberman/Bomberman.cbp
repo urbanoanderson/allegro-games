@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Bomberman" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="Bomberman" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/teste" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="animation.cpp" />
+		<Unit filename="animation.h" />
+		<Unit filename="bomb.cpp" />
+		<Unit filename="bomb.h" />
+		<Unit filename="collision.cpp" />
+		<Unit filename="collision.h" />
+		<Unit filename="content.cpp" />
+		<Unit filename="content.h" />
+		<Unit filename="enemy.cpp" />
+		<Unit filename="enemy.h" />
+		<Unit filename="explosion.cpp" />
+		<Unit filename="explosion.h" />
+		<Unit filename="gameover.cpp" />
+		<Unit filename="gameover.h" />
+		<Unit filename="gamescreen.cpp" />
+		<Unit filename="gamescreen.h" />
+		<Unit filename="init.cpp" />
+		<Unit filename="init.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="mainmenu.cpp" />
+		<Unit filename="mainmenu.h" />
+		<Unit filename="player.cpp" />
+		<Unit filename="player.h" />
+		<Unit filename="portal.cpp" />
+		<Unit filename="portal.h" />
+		<Unit filename="tilemap.cpp" />
+		<Unit filename="tilemap.h" />
+		<Unit filename="upgrade.cpp" />
+		<Unit filename="upgrade.h" />
+		<Unit filename="victory.cpp" />
+		<Unit filename="victory.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+			<DoxyBlocks>
+				<comment_style block="0" line="0" />
+				<doxyfile_project />
+				<doxyfile_build />
+				<doxyfile_warnings />
+				<doxyfile_output />
+				<doxyfile_dot />
+				<general />
+			</DoxyBlocks>
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

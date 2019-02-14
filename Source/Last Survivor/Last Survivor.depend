@@ -1,0 +1,715 @@
+# depslib dependency file v1.0
+1364854242 source:c:\users\anderson\dropbox\projetos\last survivor\animation.cpp
+	"animation.hpp"
+
+1364854252 c:\users\anderson\dropbox\projetos\last survivor\animation.hpp
+	"init.hpp"
+
+1369160968 c:\users\anderson\dropbox\projetos\last survivor\init.hpp
+	<allegro.h>
+	<cstdio>
+	<cmath>
+	<ctime>
+	<list>
+	<string>
+	"content.hpp"
+	"keyboard.hpp"
+	"xbox.hpp"
+	"highscores.hpp"
+
+1369160048 c:\users\anderson\dropbox\projetos\last survivor\content.hpp
+	<allegro.h>
+	"datafile_fonts.h"
+	"datafile_music.h"
+	"datafile_sfx.h"
+	"datafile_menu.h"
+	"datafile_graphics.h"
+
+1365249299 source:c:\users\anderson\dropbox\projetos\last survivor\background.cpp
+	"background.hpp"
+
+1364964462 c:\users\anderson\dropbox\projetos\last survivor\background.hpp
+	"init.hpp"
+
+1364342810 source:c:\users\anderson\dropbox\projetos\last survivor\button.cpp
+	"button.hpp"
+
+1364342444 c:\users\anderson\dropbox\projetos\last survivor\button.hpp
+	"init.hpp"
+
+1364332013 source:c:\users\anderson\dropbox\projetos\last survivor\collision.cpp
+	"collision.hpp"
+
+1364331613 c:\users\anderson\dropbox\projetos\last survivor\collision.hpp
+	<allegro.h>
+	"animation.hpp"
+
+1369160101 source:c:\users\anderson\dropbox\projetos\last survivor\content.cpp
+	"content.hpp"
+
+1368657635 source:c:\users\anderson\dropbox\projetos\last survivor\enemy.cpp
+	"enemy.hpp"
+
+1368656966 c:\users\anderson\dropbox\projetos\last survivor\enemy.hpp
+	"init.hpp"
+	"gameobject.hpp"
+
+1364342816 source:c:\users\anderson\dropbox\projetos\last survivor\explosao.cpp
+	"explosao.hpp"
+
+1364342820 c:\users\anderson\dropbox\projetos\last survivor\explosao.hpp
+	"init.hpp"
+	"animation.hpp"
+
+1364442006 c:\users\anderson\dropbox\projetos\last survivor\physics.hpp
+	<allegro.h>
+	"animation.hpp"
+
+1364353154 c:\users\anderson\dropbox\projetos\last survivor\keyboard.hpp
+	<allegro.h>
+
+1364353082 c:\users\anderson\dropbox\projetos\last survivor\xbox.hpp
+	<allegro.h>
+
+1364342804 source:e:\projetos\allegro 4\last survivor\animation.cpp
+	"animation.hpp"
+
+1364342432 e:\projetos\allegro 4\last survivor\animation.hpp
+	"init.hpp"
+
+1364393366 e:\projetos\allegro 4\last survivor\init.hpp
+	<allegro.h>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<ctime>
+	"content.hpp"
+	"keyboard.hpp"
+	"xbox.hpp"
+
+1364390980 e:\projetos\allegro 4\last survivor\content.hpp
+	<allegro.h>
+
+1364342354 e:\projetos\allegro 4\last survivor\keyboard.hpp
+	<allegro.h>
+
+1364342282 e:\projetos\allegro 4\last survivor\xbox.hpp
+	<allegro.h>
+
+1364342808 source:e:\projetos\allegro 4\last survivor\background.cpp
+	"background.hpp"
+
+1364342438 e:\projetos\allegro 4\last survivor\background.hpp
+	"init.hpp"
+
+1364342810 source:e:\projetos\allegro 4\last survivor\button.cpp
+	"button.hpp"
+
+1364342444 e:\projetos\allegro 4\last survivor\button.hpp
+	"init.hpp"
+
+1364390990 source:e:\projetos\allegro 4\last survivor\content.cpp
+	"content.hpp"
+
+1364271460 source:e:\projetos\allegro 4\last survivor\enemy.cpp
+	"enemy.hpp"
+
+1364394860 e:\projetos\allegro 4\last survivor\enemy.hpp
+	"init.hpp"
+	"animation.hpp"
+
+1364342816 source:e:\projetos\allegro 4\last survivor\explosao.cpp
+	"explosao.hpp"
+
+1364342820 e:\projetos\allegro 4\last survivor\explosao.hpp
+	"init.hpp"
+	"animation.hpp"
+
+1364394224 source:e:\projetos\allegro 4\last survivor\gamescreen.cpp
+	"gamescreen.hpp"
+
+1364390198 e:\projetos\allegro 4\last survivor\gamescreen.hpp
+	"init.hpp"
+	"button.hpp"
+	"nave.hpp"
+	"inimigo.hpp"
+	"powerup.hpp"
+	"background.hpp"
+	"mediaplayer.hpp"
+	"screeneffects.hpp"
+
+1364354644 e:\projetos\allegro 4\last survivor\nave.hpp
+	"init.hpp"
+	"tiro.hpp"
+	"explosao.hpp"
+	"physics.hpp"
+
+1364389824 e:\projetos\allegro 4\last survivor\tiro.hpp
+	"init.hpp"
+	"physics.hpp"
+	"animation.hpp"
+
+1364390352 e:\projetos\allegro 4\last survivor\physics.hpp
+	<allegro.h>
+	"animation.hpp"
+
+1364390284 e:\projetos\allegro 4\last survivor\inimigo.hpp
+	"init.hpp"
+	"tiro.hpp"
+	"explosao.hpp"
+	"physics.hpp"
+
+1364342800 e:\projetos\allegro 4\last survivor\powerup.hpp
+	"init.hpp"
+	"nave.hpp"
+
+1364342774 e:\projetos\allegro 4\last survivor\mediaplayer.hpp
+	"init.hpp"
+
+1364342800 e:\projetos\allegro 4\last survivor\screeneffects.hpp
+	"init.hpp"
+
+1364390248 source:e:\projetos\allegro 4\last survivor\inimigo.cpp
+	"inimigo.hpp"
+
+1364393454 source:e:\projetos\allegro 4\last survivor\init.cpp
+	"init.hpp"
+
+1364390414 source:e:\projetos\allegro 4\last survivor\keyboard.cpp
+	"keyboard.hpp"
+
+1364390888 source:e:\projetos\allegro 4\last survivor\main.cpp
+	"init.hpp"
+	"mainmenu.hpp"
+	"gamescreen.hpp"
+
+1364354232 e:\projetos\allegro 4\last survivor\mainmenu.hpp
+	"init.hpp"
+	"button.hpp"
+
+1364393428 source:e:\projetos\allegro 4\last survivor\mainmenu.cpp
+	"mainmenu.hpp"
+
+1364390548 source:e:\projetos\allegro 4\last survivor\mediaplayer.cpp
+	"mediaplayer.hpp"
+
+1364390554 source:e:\projetos\allegro 4\last survivor\nave.cpp
+	"nave.hpp"
+
+1364354096 source:e:\projetos\allegro 4\last survivor\physics.cpp
+	"physics.hpp"
+
+1364390564 source:e:\projetos\allegro 4\last survivor\powerup.cpp
+	"powerup.hpp"
+
+1364390592 source:e:\projetos\allegro 4\last survivor\screeneffects.cpp
+	"screeneffects.hpp"
+
+1364390600 source:e:\projetos\allegro 4\last survivor\tiro.cpp
+	"tiro.hpp"
+
+1364390606 source:e:\projetos\allegro 4\last survivor\xbox.cpp
+	"xbox.hpp"
+
+1369160208 source:c:\users\anderson\dropbox\projetos\last survivor\gamescreen.cpp
+	"gamescreen.hpp"
+
+1368718564 c:\users\anderson\dropbox\projetos\last survivor\gamescreen.hpp
+	"shot.hpp"
+	"homing_shot.hpp"
+	"bomba.hpp"
+	"spaceship.hpp"
+	"shield.hpp"
+	"powerup.hpp"
+	"enemy.hpp"
+	"enemy_A.hpp"
+	"enemy_B.hpp"
+	"enemy_C.hpp"
+	"enemy_D.hpp"
+	"enemy_E.hpp"
+	"enemy_F.hpp"
+	"explosion.hpp"
+	"background.hpp"
+	"mediaplayer.hpp"
+	"gameover.hpp"
+	"pause.hpp"
+
+1364354644 c:\users\anderson\dropbox\projetos\last survivor\nave.hpp
+	"init.hpp"
+	"tiro.hpp"
+	"explosao.hpp"
+	"physics.hpp"
+
+1364389824 c:\users\anderson\dropbox\projetos\last survivor\tiro.hpp
+	"init.hpp"
+	"physics.hpp"
+	"animation.hpp"
+
+1364390284 c:\users\anderson\dropbox\projetos\last survivor\inimigo.hpp
+	"init.hpp"
+	"tiro.hpp"
+	"explosao.hpp"
+	"physics.hpp"
+
+1364820146 c:\users\anderson\dropbox\projetos\last survivor\powerup.hpp
+	"spaceship.hpp"
+	"shield.hpp"
+
+1368658073 c:\users\anderson\dropbox\projetos\last survivor\mediaplayer.hpp
+	"init.hpp"
+
+1364353600 c:\users\anderson\dropbox\projetos\last survivor\screeneffects.hpp
+	"init.hpp"
+
+1364390248 source:c:\users\anderson\dropbox\projetos\last survivor\inimigo.cpp
+	"inimigo.hpp"
+
+1369160638 source:c:\users\anderson\dropbox\projetos\last survivor\init.cpp
+	"init.hpp"
+
+1364401214 source:c:\users\anderson\dropbox\projetos\last survivor\keyboard.cpp
+	"keyboard.hpp"
+
+1369160416 source:c:\users\anderson\dropbox\projetos\last survivor\main.cpp
+	"init.hpp"
+	"help.hpp"
+	"challenge.hpp"
+	"highscore_screen.hpp"
+	"gamescreen.hpp"
+	"optionscreen.hpp"
+
+1364858367 c:\users\anderson\dropbox\projetos\last survivor\mainmenu.hpp
+	"init.hpp"
+	"optionscreen.hpp"
+	"challenge.hpp"
+	"help.hpp"
+	"highscores.hpp"
+
+1368658073 source:c:\users\anderson\dropbox\projetos\last survivor\mediaplayer.cpp
+	"mediaplayer.hpp"
+
+1364406633 source:c:\users\anderson\dropbox\projetos\last survivor\nave.cpp
+	"nave.hpp"
+
+1364660028 source:c:\users\anderson\dropbox\projetos\last survivor\physics.cpp
+	"physics.hpp"
+
+1368987741 source:c:\users\anderson\dropbox\projetos\last survivor\powerup.cpp
+	"powerup.hpp"
+
+1364401392 source:c:\users\anderson\dropbox\projetos\last survivor\screeneffects.cpp
+	"screeneffects.hpp"
+
+1368987612 source:c:\users\anderson\dropbox\projetos\last survivor\spaceship.cpp
+	"spaceship.hpp"
+
+1368641720 c:\users\anderson\dropbox\projetos\last survivor\spaceship.hpp
+	"init.hpp"
+	"gameobject.hpp"
+	"shot.hpp"
+
+1364390600 source:c:\users\anderson\dropbox\projetos\last survivor\tiro.cpp
+	"tiro.hpp"
+
+1365510297 source:c:\users\anderson\dropbox\projetos\last survivor\xbox.cpp
+	"xbox.hpp"
+
+1364860161 source:c:\users\anderson\dropbox\projetos\last survivor\mainmenu.cpp
+	"mainmenu.hpp"
+
+1368641883 source:c:\users\anderson\dropbox\projetos\last survivor\shield.cpp
+	"shield.hpp"
+
+1364757878 c:\users\anderson\dropbox\projetos\last survivor\shield.hpp
+	"init.hpp"
+	"spaceship.hpp"
+
+1365595501 c:\users\anderson\dropbox\projetos\last survivor\shot.hpp
+	"gameobject.hpp"
+
+1364855252 source:c:\users\anderson\dropbox\projetos\last survivor\shot.cpp
+	"shot.hpp"
+
+1364482818 source:c:\users\anderson\dropbox\projetos\last survivor\gameobject.cpp
+	"gameobject.hpp"
+
+1365213025 c:\users\anderson\dropbox\projetos\last survivor\gameobject.hpp
+	"init.hpp"
+	"animation.hpp"
+	"physics.hpp"
+
+1365415912 source:c:\users\anderson\dropbox\projetos\last survivor\enemy_a.cpp
+	"enemy_A.hpp"
+
+1364661100 c:\users\anderson\dropbox\projetos\last survivor\enemy_a.hpp
+	"init.hpp"
+	"enemy.hpp"
+
+1365213109 c:\users\anderson\dropbox\projetos\last survivor\enemy_b.hpp
+	"init.hpp"
+	"enemy.hpp"
+
+1368963019 source:c:\users\anderson\dropbox\projetos\last survivor\enemy_b.cpp
+	"enemy_B.hpp"
+
+1365416586 c:\users\anderson\dropbox\projetos\last survivor\enemy_c.hpp
+	"init.hpp"
+	"enemy.hpp"
+
+1365415434 source:c:\users\anderson\dropbox\projetos\last survivor\enemy_c.cpp
+	"enemy_C.hpp"
+
+1364580268 c:\users\anderson\dropbox\projetos\last survivor\explosion.hpp
+	"init.hpp"
+	"gameobject.hpp"
+
+1364877706 source:c:\users\anderson\dropbox\projetos\last survivor\explosion.cpp
+	"explosion.hpp"
+
+1365416326 source:c:\users\anderson\dropbox\projetos\last survivor\enemy_d.cpp
+	"enemy_D.hpp"
+
+1364737840 c:\users\anderson\dropbox\projetos\last survivor\enemy_d.hpp
+	"init.hpp"
+	"enemy.hpp"
+
+1364758216 c:\users\anderson\dropbox\projetos\last survivor\optionscreen.hpp
+	"init.hpp"
+
+1368721391 source:c:\users\anderson\dropbox\projetos\last survivor\optionscreen.cpp
+	"optionscreen.hpp"
+
+1368721204 source:c:\users\anderson\dropbox\projetos\last survivor\help.cpp
+	"help.hpp"
+
+1364860438 c:\users\anderson\dropbox\projetos\last survivor\help.hpp
+	"init.hpp"
+
+1369158080 c:\users\anderson\dropbox\projetos\last survivor\highscores.hpp
+	<cstdio>
+	<string>
+
+1369158184 source:c:\users\anderson\dropbox\projetos\last survivor\highscores.cpp
+	"highscores.hpp"
+
+1365510454 source:c:\users\anderson\dropbox\projetos\last survivor\challenge.cpp
+	"challenge.hpp"
+
+1364910142 c:\users\anderson\dropbox\projetos\last survivor\challenge.hpp
+	"init.hpp"
+	"gamescreen.hpp"
+
+1368658153 c:\users\anderson\dropbox\projetos\last survivor\gameover.hpp
+	"init.hpp"
+	"screeneffects.hpp"
+	"background.hpp"
+
+1368658153 source:c:\users\anderson\dropbox\projetos\last survivor\gameover.cpp
+	"gameover.hpp"
+
+1364925602 c:\users\anderson\dropbox\projetos\last survivor\pause.hpp
+	"background.hpp"
+	"mediaplayer.hpp"
+
+1368838743 source:c:\users\anderson\dropbox\projetos\last survivor\pause.cpp
+	"pause.hpp"
+
+1368657703 source:c:\users\anderson\dropbox\projetos\last survivor\highscore_screen.cpp
+	"highscore_screen.hpp"
+
+1365025741 c:\users\anderson\dropbox\projetos\last survivor\highscore_screen.hpp
+	"init.hpp"
+
+1365590376 c:\users\anderson\dropbox\projetos\last survivor\enemy_e.hpp
+	"enemy.hpp"
+
+1365515788 source:c:\users\anderson\dropbox\projetos\last survivor\enemy_e.cpp
+	"enemy_E.hpp"
+
+1365472970 source:c:\users\anderson\dropbox\projetos\last survivor\homing_shot.cpp
+	"homing_shot.hpp"
+
+1365463441 c:\users\anderson\dropbox\projetos\last survivor\homing_shot.hpp
+	"gameobject.hpp"
+
+1365591426 c:\users\anderson\dropbox\projetos\last survivor\enemy_f.hpp
+	"enemy.hpp"
+
+1368657466 source:c:\users\anderson\dropbox\projetos\last survivor\enemy_f.cpp
+	"enemy_F.hpp"
+
+1365596102 source:c:\users\anderson\dropbox\projetos\last survivor\bomba.cpp
+	"bomba.hpp"
+
+1365595696 c:\users\anderson\dropbox\projetos\last survivor\bomba.hpp
+	"gameobject.hpp"
+
+1369095202 c:\users\anderson\dropbox\projetos\last survivor\datafile_fonts.h
+
+1369096282 c:\users\anderson\dropbox\projetos\last survivor\datafile_music.h
+
+1369097575 c:\users\anderson\dropbox\projetos\last survivor\datafile_sfx.h
+
+1369147776 c:\users\anderson\dropbox\projetos\last survivor\datafile_menu.h
+
+1369150170 c:\users\anderson\dropbox\projetos\last survivor\datafile_graphics.h
+
+1364854242 source:c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\animation.cpp
+	"animation.hpp"
+
+1364854252 c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\animation.hpp
+	"init.hpp"
+
+1370032547 c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\init.hpp
+	<allegro.h>
+	<cstdio>
+	<cmath>
+	<ctime>
+	<list>
+	<string>
+	"content.hpp"
+	"keyboard.hpp"
+	"xbox.hpp"
+	"highscores.hpp"
+
+1369160048 c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\content.hpp
+	<allegro.h>
+	"datafile_fonts.h"
+	"datafile_music.h"
+	"datafile_sfx.h"
+	"datafile_menu.h"
+	"datafile_graphics.h"
+
+1369095202 c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\datafile_fonts.h
+
+1369096282 c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\datafile_music.h
+
+1369097575 c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\datafile_sfx.h
+
+1369147776 c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\datafile_menu.h
+
+1369150170 c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\datafile_graphics.h
+
+1364353154 c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\keyboard.hpp
+	<allegro.h>
+
+1364353082 c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\xbox.hpp
+	<allegro.h>
+
+1369158080 c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\highscores.hpp
+	<cstdio>
+	<string>
+
+1365249299 source:c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\background.cpp
+	"background.hpp"
+
+1364964462 c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\background.hpp
+	"init.hpp"
+
+1365596102 source:c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\bomba.cpp
+	"bomba.hpp"
+
+1365595696 c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\bomba.hpp
+	"gameobject.hpp"
+
+1365213025 c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\gameobject.hpp
+	"init.hpp"
+	"animation.hpp"
+	"physics.hpp"
+
+1364442006 c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\physics.hpp
+	<allegro.h>
+	"animation.hpp"
+
+1370110296 source:c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\challenge.cpp
+	"challenge.hpp"
+
+1364910142 c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\challenge.hpp
+	"init.hpp"
+	"gamescreen.hpp"
+
+1370130503 c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\gamescreen.hpp
+	"shot.hpp"
+	"homing_shot.hpp"
+	"bomba.hpp"
+	"spaceship.hpp"
+	"shield.hpp"
+	"powerup.hpp"
+	"enemy.hpp"
+	"enemy_A.hpp"
+	"enemy_B.hpp"
+	"enemy_C.hpp"
+	"enemy_D.hpp"
+	"enemy_E.hpp"
+	"enemy_F.hpp"
+	"explosion.hpp"
+	"background.hpp"
+	"mediaplayer.hpp"
+	"gameover.hpp"
+	"pause.hpp"
+
+1365595501 c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\shot.hpp
+	"gameobject.hpp"
+
+1370130547 c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\homing_shot.hpp
+	"gameobject.hpp"
+
+1368641720 c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\spaceship.hpp
+	"init.hpp"
+	"gameobject.hpp"
+	"shot.hpp"
+
+1364757878 c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\shield.hpp
+	"init.hpp"
+	"spaceship.hpp"
+
+1364820146 c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\powerup.hpp
+	"spaceship.hpp"
+	"shield.hpp"
+
+1368656966 c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\enemy.hpp
+	"init.hpp"
+	"gameobject.hpp"
+
+1364661100 c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\enemy_a.hpp
+	"init.hpp"
+	"enemy.hpp"
+
+1365213109 c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\enemy_b.hpp
+	"init.hpp"
+	"enemy.hpp"
+
+1365416586 c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\enemy_c.hpp
+	"init.hpp"
+	"enemy.hpp"
+
+1364737840 c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\enemy_d.hpp
+	"init.hpp"
+	"enemy.hpp"
+
+1365590376 c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\enemy_e.hpp
+	"enemy.hpp"
+
+1369168164 c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\enemy_f.hpp
+	"enemy.hpp"
+
+1364580268 c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\explosion.hpp
+	"init.hpp"
+	"gameobject.hpp"
+
+1368658073 c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\mediaplayer.hpp
+	"init.hpp"
+
+1368658153 c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\gameover.hpp
+	"init.hpp"
+	"screeneffects.hpp"
+	"background.hpp"
+
+1364353600 c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\screeneffects.hpp
+	"init.hpp"
+
+1364925602 c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\pause.hpp
+	"background.hpp"
+	"mediaplayer.hpp"
+
+1370133817 source:c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\content.cpp
+	"content.hpp"
+
+1368657635 source:c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\enemy.cpp
+	"enemy.hpp"
+
+1365415912 source:c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\enemy_a.cpp
+	"enemy_A.hpp"
+
+1368963019 source:c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\enemy_b.cpp
+	"enemy_B.hpp"
+
+1365415434 source:c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\enemy_c.cpp
+	"enemy_C.hpp"
+
+1365416326 source:c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\enemy_d.cpp
+	"enemy_D.hpp"
+
+1365515788 source:c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\enemy_e.cpp
+	"enemy_E.hpp"
+
+1369168280 source:c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\enemy_f.cpp
+	"enemy_F.hpp"
+
+1364877706 source:c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\explosion.cpp
+	"explosion.hpp"
+
+1364482818 source:c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\gameobject.cpp
+	"gameobject.hpp"
+
+1370110296 source:c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\gameover.cpp
+	"gameover.hpp"
+
+1370133954 source:c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\gamescreen.cpp
+	"gamescreen.hpp"
+
+1370134005 source:c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\help.cpp
+	"help.hpp"
+
+1364860438 c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\help.hpp
+	"init.hpp"
+
+1370110296 source:c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\highscore_screen.cpp
+	"highscore_screen.hpp"
+
+1365025741 c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\highscore_screen.hpp
+	"init.hpp"
+
+1369158184 source:c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\highscores.cpp
+	"highscores.hpp"
+
+1370130547 source:c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\homing_shot.cpp
+	"homing_shot.hpp"
+
+1370032966 source:c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\init.cpp
+	"init.hpp"
+
+1364401214 source:c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\keyboard.cpp
+	"keyboard.hpp"
+
+1370110296 source:c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\main.cpp
+	"init.hpp"
+	"help.hpp"
+	"challenge.hpp"
+	"highscore_screen.hpp"
+	"gamescreen.hpp"
+	"optionscreen.hpp"
+
+1364758216 c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\optionscreen.hpp
+	"init.hpp"
+
+1368658073 source:c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\mediaplayer.cpp
+	"mediaplayer.hpp"
+
+1370110296 source:c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\optionscreen.cpp
+	"optionscreen.hpp"
+
+1370110296 source:c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\pause.cpp
+	"pause.hpp"
+
+1364660028 source:c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\physics.cpp
+	"physics.hpp"
+
+1368987741 source:c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\powerup.cpp
+	"powerup.hpp"
+
+1364401392 source:c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\screeneffects.cpp
+	"screeneffects.hpp"
+
+1368641883 source:c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\shield.cpp
+	"shield.hpp"
+
+1364855252 source:c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\shot.cpp
+	"shot.hpp"
+
+1368987612 source:c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\spaceship.cpp
+	"spaceship.hpp"
+
+1365510297 source:c:\users\anderson\dropbox\projetos\last survivor\last survivor (final)\xbox.cpp
+	"xbox.hpp"
+

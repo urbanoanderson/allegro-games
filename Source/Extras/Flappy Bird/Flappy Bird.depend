@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1388493152 source:d:\dropbox\projetos\allegro 5\flappy bird\animation.cpp
+	"animation.h"
+
+1388493152 d:\dropbox\projetos\allegro 5\flappy bird\animation.h
+	"init.h"
+
+1393193230 d:\dropbox\projetos\allegro 5\flappy bird\init.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_physfs.h>
+	<physfs.h>
+	<list>
+	<ctime>
+	<cmath>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	"defines.h"
+	"content.h"
+
+1393701616 d:\dropbox\projetos\allegro 5\flappy bird\defines.h
+
+1393641608 d:\dropbox\projetos\allegro 5\flappy bird\content.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1393641608 source:d:\dropbox\projetos\allegro 5\flappy bird\content.cpp
+	"content.h"
+
+1393701410 source:d:\dropbox\projetos\allegro 5\flappy bird\gamescreen.cpp
+	"gamescreen.h"
+
+1393209097 d:\dropbox\projetos\allegro 5\flappy bird\gamescreen.h
+	"init.h"
+	"animation.h"
+	"player.h"
+	"pipe.h"
+
+1393701422 source:d:\dropbox\projetos\allegro 5\flappy bird\init.cpp
+	"init.h"
+
+1393123584 source:d:\dropbox\projetos\allegro 5\flappy bird\main.cpp
+	"init.h"
+	"mainmenu.h"
+	"gamescreen.h"
+
+1381797840 d:\dropbox\projetos\allegro 5\flappy bird\mainmenu.h
+	"init.h"
+	"animation.h"
+
+1393125251 source:d:\dropbox\projetos\allegro 5\flappy bird\mainmenu.cpp
+	"mainmenu.h"
+
+1393641667 d:\dropbox\projetos\allegro 5\flappy bird\player.h
+	"init.h"
+	"animation.h"
+	"boundingbox.h"
+
+1393641787 source:d:\dropbox\projetos\allegro 5\flappy bird\player.cpp
+	"player.h"
+
+1393617496 d:\dropbox\projetos\allegro 5\flappy bird\boundingbox.h
+	"init.h"
+
+1393209282 source:d:\dropbox\projetos\allegro 5\flappy bird\boundingbox.cpp
+	"boundingbox.h"
+
+1393617266 d:\dropbox\projetos\allegro 5\flappy bird\pipe.h
+	"init.h"
+	"boundingbox.h"
+	"player.h"
+
+1393701688 source:d:\dropbox\projetos\allegro 5\flappy bird\pipe.cpp
+	"pipe.h"
+

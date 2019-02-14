@@ -1,0 +1,451 @@
+# depslib dependency file v1.0
+1382284465 source:d:\dropbox\projetos\allegro 5\bomberman\gamescreen.cpp
+	"gamescreen.h"
+
+1382278544 d:\dropbox\projetos\allegro 5\bomberman\gamescreen.h
+	"init.h"
+	"animation.h"
+	"tilemap.h"
+	"player.h"
+	"enemy.h"
+	"collision.h"
+	"portal.h"
+
+1382278811 d:\dropbox\projetos\allegro 5\bomberman\init.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_physfs.h>
+	<physfs.h>
+	<list>
+	<ctime>
+	<cmath>
+	<cstdio>
+	<cstdlib>
+	"content.h"
+
+1382116416 source:d:\dropbox\projetos\allegro 5\bomberman\init.cpp
+	"init.h"
+
+1382271633 source:d:\dropbox\projetos\allegro 5\bomberman\mainmenu.cpp
+	"mainmenu.h"
+
+1381794241 d:\dropbox\projetos\allegro 5\bomberman\mainmenu.h
+	"init.h"
+	"animation.h"
+
+1381836920 source:d:\dropbox\projetos\allegro 5\bomberman\main.cpp
+	"init.h"
+	"mainmenu.h"
+	"gamescreen.h"
+	"gameover.h"
+	"victory.h"
+
+1382276854 d:\dropbox\projetos\allegro 5\bomberman\content.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1382276935 source:d:\dropbox\projetos\allegro 5\bomberman\content.cpp
+	"content.h"
+
+1381927044 d:\dropbox\projetos\allegro 5\bomberman\animation.h
+	"init.h"
+
+1381927140 source:d:\dropbox\projetos\allegro 5\bomberman\animation.cpp
+	"animation.h"
+
+1381857891 source:d:\dropbox\projetos\allegro 5\bomberman\tilemap.cpp
+	"tilemap.h"
+
+1381858046 d:\dropbox\projetos\allegro 5\bomberman\tilemap.h
+	"init.h"
+
+1382298790 d:\dropbox\projetos\allegro 5\bomberman\player.h
+	"init.h"
+	"animation.h"
+	"collision.h"
+	"tilemap.h"
+	"bomb.h"
+	"explosion.h"
+	"upgrade.h"
+
+1382299261 source:d:\dropbox\projetos\allegro 5\bomberman\player.cpp
+	"player.h"
+
+1381770576 d:\dropbox\projetos\allegro 5\bomberman\collision.h
+	"init.h"
+
+1381415184 source:d:\dropbox\projetos\allegro 5\bomberman\collision.cpp
+	"collision.h"
+
+1382113196 source:d:\dropbox\projetos\allegro 5\bomberman\gameover.cpp
+	"gameover.h"
+
+1381933446 d:\dropbox\projetos\allegro 5\bomberman\gameover.h
+	"init.h"
+	"animation.h"
+
+1382373003 d:\dropbox\projetos\allegro 5\bomberman\bomb.h
+	"init.h"
+	"animation.h"
+	"collision.h"
+	"tilemap.h"
+
+1382265617 source:d:\dropbox\projetos\allegro 5\bomberman\bomb.cpp
+	"bomb.h"
+
+1382196992 d:\dropbox\projetos\allegro 5\bomberman\explosion.h
+	"init.h"
+	"tilemap.h"
+	"collision.h"
+	"upgrade.h"
+	"animation.h"
+	"bomb.h"
+
+1382197186 source:d:\dropbox\projetos\allegro 5\bomberman\explosion.cpp
+	"explosion.h"
+
+1382265945 d:\dropbox\projetos\allegro 5\bomberman\upgrade.h
+	"init.h"
+	"collision.h"
+	"animation.h"
+	"tilemap.h"
+
+1382266723 source:d:\dropbox\projetos\allegro 5\bomberman\upgrade.cpp
+	"upgrade.h"
+
+1381836864 d:\dropbox\projetos\allegro 5\bomberman\portal.h
+	"init.h"
+	"animation.h"
+	"collision.h"
+	"tilemap.h"
+
+1381837300 source:d:\dropbox\projetos\allegro 5\bomberman\portal.cpp
+	"portal.h"
+
+1382112752 source:d:\dropbox\projetos\allegro 5\bomberman\victory.cpp
+	"victory.h"
+
+1381926323 d:\dropbox\projetos\allegro 5\bomberman\victory.h
+	"init.h"
+	"animation.h"
+
+1382300553 source:d:\dropbox\projetos\allegro 5\bomberman\enemy.cpp
+	"enemy.h"
+
+1382300553 d:\dropbox\projetos\allegro 5\bomberman\enemy.h
+	"init.h"
+	"animation.h"
+	"collision.h"
+	"tilemap.h"
+	"bomb.h"
+	"explosion.h"
+	"upgrade.h"
+
+1381934340 source:c:\users\glaucio\downloads\bomberman 21-10-13\animation.cpp
+	"animation.h"
+
+1381934244 c:\users\glaucio\downloads\bomberman 21-10-13\animation.h
+	"init.h"
+
+1382286010 c:\users\glaucio\downloads\bomberman 21-10-13\init.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_physfs.h>
+	<physfs.h>
+	<list>
+	<ctime>
+	<cmath>
+	<cstdio>
+	<cstdlib>
+	"content.h"
+
+1382284054 c:\users\glaucio\downloads\bomberman 21-10-13\content.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1382380196 source:c:\users\glaucio\downloads\bomberman 21-10-13\bomb.cpp
+	"bomb.h"
+
+1387675817 c:\users\glaucio\downloads\bomberman 21-10-13\bomb.h
+	"init.h"
+	"animation.h"
+	"collision.h"
+	"tilemap.h"
+
+1381777776 c:\users\glaucio\downloads\bomberman 21-10-13\collision.h
+	"init.h"
+
+1381865246 c:\users\glaucio\downloads\bomberman 21-10-13\tilemap.h
+	"init.h"
+
+1381422384 source:c:\users\glaucio\downloads\bomberman 21-10-13\collision.cpp
+	"collision.h"
+
+1382284134 source:c:\users\glaucio\downloads\bomberman 21-10-13\content.cpp
+	"content.h"
+
+1382307752 source:c:\users\glaucio\downloads\bomberman 21-10-13\enemy.cpp
+	"enemy.h"
+
+1382307752 c:\users\glaucio\downloads\bomberman 21-10-13\enemy.h
+	"init.h"
+	"animation.h"
+	"collision.h"
+	"tilemap.h"
+	"bomb.h"
+	"explosion.h"
+	"upgrade.h"
+
+1382204192 c:\users\glaucio\downloads\bomberman 21-10-13\explosion.h
+	"init.h"
+	"tilemap.h"
+	"collision.h"
+	"upgrade.h"
+	"animation.h"
+	"bomb.h"
+
+1382273144 c:\users\glaucio\downloads\bomberman 21-10-13\upgrade.h
+	"init.h"
+	"collision.h"
+	"animation.h"
+	"tilemap.h"
+
+1382204386 source:c:\users\glaucio\downloads\bomberman 21-10-13\explosion.cpp
+	"explosion.h"
+
+1382120396 source:c:\users\glaucio\downloads\bomberman 21-10-13\gameover.cpp
+	"gameover.h"
+
+1381940646 c:\users\glaucio\downloads\bomberman 21-10-13\gameover.h
+	"init.h"
+	"animation.h"
+
+1382291664 source:c:\users\glaucio\downloads\bomberman 21-10-13\gamescreen.cpp
+	"gamescreen.h"
+
+1382285744 c:\users\glaucio\downloads\bomberman 21-10-13\gamescreen.h
+	"init.h"
+	"animation.h"
+	"tilemap.h"
+	"player.h"
+	"enemy.h"
+	"collision.h"
+	"portal.h"
+
+1382305990 c:\users\glaucio\downloads\bomberman 21-10-13\player.h
+	"init.h"
+	"animation.h"
+	"collision.h"
+	"tilemap.h"
+	"bomb.h"
+	"explosion.h"
+	"upgrade.h"
+
+1381844064 c:\users\glaucio\downloads\bomberman 21-10-13\portal.h
+	"init.h"
+	"animation.h"
+	"collision.h"
+	"tilemap.h"
+
+1382123616 source:c:\users\glaucio\downloads\bomberman 21-10-13\init.cpp
+	"init.h"
+
+1381844120 source:c:\users\glaucio\downloads\bomberman 21-10-13\main.cpp
+	"init.h"
+	"mainmenu.h"
+	"gamescreen.h"
+	"gameover.h"
+	"victory.h"
+
+1381801440 c:\users\glaucio\downloads\bomberman 21-10-13\mainmenu.h
+	"init.h"
+	"animation.h"
+
+1381933522 c:\users\glaucio\downloads\bomberman 21-10-13\victory.h
+	"init.h"
+	"animation.h"
+
+1382278832 source:c:\users\glaucio\downloads\bomberman 21-10-13\mainmenu.cpp
+	"mainmenu.h"
+
+1382306460 source:c:\users\glaucio\downloads\bomberman 21-10-13\player.cpp
+	"player.h"
+
+1381844500 source:c:\users\glaucio\downloads\bomberman 21-10-13\portal.cpp
+	"portal.h"
+
+1381865090 source:c:\users\glaucio\downloads\bomberman 21-10-13\tilemap.cpp
+	"tilemap.h"
+
+1382273922 source:c:\users\glaucio\downloads\bomberman 21-10-13\upgrade.cpp
+	"upgrade.h"
+
+1382119952 source:c:\users\glaucio\downloads\bomberman 21-10-13\victory.cpp
+	"victory.h"
+
+1381934340 source:c:\users\glaucio\downloads\bomberman\animation.cpp
+	"animation.h"
+
+1381934244 c:\users\glaucio\downloads\bomberman\animation.h
+	"init.h"
+
+1387906881 c:\users\glaucio\downloads\bomberman\init.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_physfs.h>
+	<physfs.h>
+	<list>
+	<ctime>
+	<cmath>
+	<cstdio>
+	<cstdlib>
+	"content.h"
+
+1387986914 c:\users\glaucio\downloads\bomberman\content.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1387992646 source:c:\users\glaucio\downloads\bomberman\bomb.cpp
+	"bomb.h"
+
+1387992598 c:\users\glaucio\downloads\bomberman\bomb.h
+	"init.h"
+	"animation.h"
+	"collision.h"
+	"tilemap.h"
+
+1381777776 c:\users\glaucio\downloads\bomberman\collision.h
+	"init.h"
+
+1387993828 c:\users\glaucio\downloads\bomberman\tilemap.h
+	"init.h"
+
+1381422384 source:c:\users\glaucio\downloads\bomberman\collision.cpp
+	"collision.h"
+
+1387986914 source:c:\users\glaucio\downloads\bomberman\content.cpp
+	"content.h"
+
+1387993852 source:c:\users\glaucio\downloads\bomberman\enemy.cpp
+	"enemy.h"
+
+1387980517 c:\users\glaucio\downloads\bomberman\enemy.h
+	"init.h"
+	"animation.h"
+	"collision.h"
+	"tilemap.h"
+	"bomb.h"
+	"explosion.h"
+	"upgrade.h"
+
+1387985780 c:\users\glaucio\downloads\bomberman\explosion.h
+	"init.h"
+	"tilemap.h"
+	"collision.h"
+	"upgrade.h"
+	"animation.h"
+	"bomb.h"
+
+1387986955 c:\users\glaucio\downloads\bomberman\upgrade.h
+	"init.h"
+	"collision.h"
+	"animation.h"
+	"tilemap.h"
+
+1387978236 source:c:\users\glaucio\downloads\bomberman\explosion.cpp
+	"explosion.h"
+
+1387889000 source:c:\users\glaucio\downloads\bomberman\gameover.cpp
+	"gameover.h"
+
+1381940646 c:\users\glaucio\downloads\bomberman\gameover.h
+	"init.h"
+	"animation.h"
+
+1387980517 source:c:\users\glaucio\downloads\bomberman\gamescreen.cpp
+	"gamescreen.h"
+
+1382285744 c:\users\glaucio\downloads\bomberman\gamescreen.h
+	"init.h"
+	"animation.h"
+	"tilemap.h"
+	"player.h"
+	"enemy.h"
+	"collision.h"
+	"portal.h"
+
+1387992905 c:\users\glaucio\downloads\bomberman\player.h
+	"init.h"
+	"animation.h"
+	"collision.h"
+	"tilemap.h"
+	"bomb.h"
+	"explosion.h"
+	"upgrade.h"
+
+1387832163 c:\users\glaucio\downloads\bomberman\portal.h
+	"init.h"
+	"animation.h"
+	"collision.h"
+	"tilemap.h"
+
+1387907061 source:c:\users\glaucio\downloads\bomberman\init.cpp
+	"init.h"
+
+1381844120 source:c:\users\glaucio\downloads\bomberman\main.cpp
+	"init.h"
+	"mainmenu.h"
+	"gamescreen.h"
+	"gameover.h"
+	"victory.h"
+
+1381801440 c:\users\glaucio\downloads\bomberman\mainmenu.h
+	"init.h"
+	"animation.h"
+
+1381933522 c:\users\glaucio\downloads\bomberman\victory.h
+	"init.h"
+	"animation.h"
+
+1387889099 source:c:\users\glaucio\downloads\bomberman\mainmenu.cpp
+	"mainmenu.h"
+
+1387994045 source:c:\users\glaucio\downloads\bomberman\player.cpp
+	"player.h"
+
+1387899779 source:c:\users\glaucio\downloads\bomberman\portal.cpp
+	"portal.h"
+
+1387993710 source:c:\users\glaucio\downloads\bomberman\tilemap.cpp
+	"tilemap.h"
+
+1387989303 source:c:\users\glaucio\downloads\bomberman\upgrade.cpp
+	"upgrade.h"
+
+1387888993 source:c:\users\glaucio\downloads\bomberman\victory.cpp
+	"victory.h"
+
